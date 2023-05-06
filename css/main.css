@@ -1,0 +1,27 @@
+body {
+
+    font-family: 'Chivo Mono', monospace;
+}
+
+.bg-header {
+    background-color: #26de81;
+}
+
+.bg-footer {
+    background-color: #26de82c4;
+}
+
+#welcome {
+    color: #ff5e57;
+    font-weight: 600;
+}
+
+.font-size-18 {
+
+    font-size: 1.125rem;
+}
+
+#error {
+
+    display: none;
+}
